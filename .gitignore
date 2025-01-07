@@ -1,0 +1,14 @@
+# Archivos de configuración del entorno
+.env
+
+# Base de datos SQLite
+database.sqlite
+
+# Directorios de dependencias
+node_modules/
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
