@@ -1,0 +1,3 @@
+https://drive.google.com/thumbnail?id= añadir el id que sigue del enlace de google drive https://drive.google.com/file/d/11z9XPQ6eUl0a7S_JYShmtDBejObz_Hwu/view de cada imagen
+
+Las imagenes deben de ser publicas para todos, y el resultado debe de ser asi: <img src="https://drive.google.com/thumbnail?id=11z9XPQ6eUl0a7S_JYShmtDBejObz_Hwu"></img>
