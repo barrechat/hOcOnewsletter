@@ -63,7 +63,7 @@ app.post('/send-newsletter', async (req, res) => {
           from: process.env.EMAIL,
           to: email,
           subject,
-          text: message,
+          html: message,
         })
       )
     );
